@@ -5,3 +5,5 @@ Credit for the idea goes to: https://ptb.discord.com/channels/829736375145332746
 - Run the script
 - You can either pass arguments to the script as input, or just type it in
 - Glhf!
+
+If you have questions about usage, add me on discord, https://discords.com/bio/p/rozbr
